@@ -10,7 +10,6 @@ Este projeto é uma aplicação Android desenvolvida para cadastrar e gerenciar 
 ## Tecnologias Utilizadas:
 - **Jetpack Compose**: Para criação das interfaces de usuário de forma declarativa e moderna.
 - **Room Database (SQLite)**: Para persistência de dados locais de forma eficiente.
-- **Navigation Compose**: Para navegação entre as telas de forma simples e intuitiva.
 
 ## Integrantes:
 1. Henrique Copatti Cruz RM94751
